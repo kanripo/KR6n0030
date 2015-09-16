@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:09.116887
+#+DATE: 2015-08-30 20:56:11.855956
 #+TITLE: 成唯識論了義燈
 #+PROPERTY: CBETA_ID T43n1832
 #+PROPERTY: ID KR6n0030
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1832
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6n0030_T_002-0681b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 第二本(論本第一)成唯識論了義燈卷第二(本)¶
+成唯識論了義燈卷第二(本)¶
 ¶
 淄洲大雲寺沙門惠沼撰¶
 
@@ -1373,8 +1372,7 @@
 成唯識論了義燈卷第二(本)
 <pb:KR6n0030_T_002-0695c>¶
 ¶
-
- 第二末(論本第一)成唯識論了義燈卷第二(末)¶
+成唯識論了義燈卷第二(末)¶
 ¶
 
 言非麁相識緣細相境。集云。有說汝緣瓶麁¶
