@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:09.253954
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:33
 #+TITLE: 成唯識論了義燈
 #+PROPERTY: CBETA_ID T43n1832
 #+PROPERTY: ID KR6n0030
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1832
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0030_T_004-0726a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 第四本(論本第三-第四)成唯識論了義燈卷第四(本)¶
+成唯識論了義燈卷第四(本)¶
 ¶
 淄洲大雲寺苾芻惠沼撰¶
 
@@ -345,9 +344,9 @@
 「　無沒．本．宅．藏
 　種．無垢．持．緣¶
 　顯．現．轉．心．依
-　異．識．根．生．有
+　異．識．根．生．有」
 #+END_VERSE
-」¶
+¶
 
 釋曰。初無沒識者。無相論云。一切諸種無所¶
 隱沒故無沒也　二名本識者。謂是一切法
@@ -994,8 +993,7 @@
 成唯識論了義燈卷第四(本終)¶
 ¶
 ¶
-
- 第四末(論本第四)成唯識論了義燈卷第四(末)(論第四)¶
+成唯識論了義燈卷第四末論第四(末)(論第四)¶
 ¶
 
 段食之體。於變壞已有資長攝持方名¶
