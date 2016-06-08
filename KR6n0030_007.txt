@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:10.797839
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:33
 #+TITLE: 成唯識論了義燈
 #+PROPERTY: CBETA_ID T43n1832
 #+PROPERTY: ID KR6n0030
@@ -1875,7 +1875,7 @@
 「　唯識深法義
 　非凡智所思¶
 　佛菩薩能知
-　今形量為失
+　今形量為失」
 #+END_VERSE
-」¶
+¶
 成唯識論了義燈卷第七(末終)
